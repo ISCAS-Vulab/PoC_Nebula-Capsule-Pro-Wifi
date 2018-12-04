@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Documents_Android\\PoC_DoS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Documents_Android\\PoC_DoS\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Documents_Android\\DoS_Audio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Documents_Android\\DoS_Audio\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]

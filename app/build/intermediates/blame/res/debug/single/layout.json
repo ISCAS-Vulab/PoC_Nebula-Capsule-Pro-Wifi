@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Documents_Android\\DoS_Audio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Documents_Android\\DoS_Audio\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Documents_Android\\PoC_DoS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Documents_Android\\PoC_DoS\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
